@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+#eightball {
+  border-radius: 50%;
+  margin: 0 auto;
+  width: 30vw;
+  height: 30vw;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30vw;
+}
