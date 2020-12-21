@@ -27,6 +27,7 @@ function App() {
   return (
     <div className="App">
       <h1>Magic Eight Ball</h1>
+      <p>Click on the ball for your answer!</p>
       <EightBall answers={answers} />
     </div>
   );
